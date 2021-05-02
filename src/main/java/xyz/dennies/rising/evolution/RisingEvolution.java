@@ -1,14 +1,15 @@
 package xyz.dennies.rising.evolution;
 
+import xyz.dennies.rising.evolution.registry.*;
 import net.fabricmc.api.ModInitializer;
 
 public class RisingEvolution implements ModInitializer {
+
+
 	@Override
 	public void onInitialize() {
-		// This code runs as soon as Minecraft is in a mod-load-ready state.
-		// However, some things (like resources) may still be uninitialized.
-		// Proceed with mild caution.
-
-		System.out.println("Hello Fabric world!");
+		ModItems.registerItems();
+		ModBlocks.registerBlocks();
+		System.out.println("Initializing Rising Evolution!");
 	}
 }
