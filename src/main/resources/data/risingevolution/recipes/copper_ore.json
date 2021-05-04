@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "risingevolution:copper_ore"
+    },
+    "result": "risingevolution:copper_ingot",
+    "experience": 0.2,
+    "cookingtime": 200
+}

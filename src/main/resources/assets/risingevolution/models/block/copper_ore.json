@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "risingevolution:blocks/copper_ore"
+        "all": "risingevolution:block/copper_ore"
     }
 }

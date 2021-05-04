@@ -20,6 +20,9 @@
   "entrypoints": {
     "main": [
       "xyz.dennies.rising.evolution.RisingEvolution"
+    ],
+    "client": [
+      "xyz.dennies.rising.evolution.RisingEvolutionClient"
     ]
   },
   "mixins": [

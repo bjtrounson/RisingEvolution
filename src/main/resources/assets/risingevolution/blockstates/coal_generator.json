@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "risingevolution:block/coal_generator" },
+        "facing=east":  { "model": "risingevolution:block/coal_generator", "y":  90},
+        "facing=south": { "model": "risingevolution:block/coal_generator", "y": 180 },
+        "facing=west":  { "model": "risingevolution:block/coal_generator", "y": 270 }
+    }
+}

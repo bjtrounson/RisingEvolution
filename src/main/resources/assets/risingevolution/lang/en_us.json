@@ -1,4 +1,5 @@
 {
     "item.risingevolution.copper_ingot": "Copper Ingot",
-    "block.risingevolution.copper_ore": "Copper Ore"
+    "block.risingevolution.copper_ore": "Copper Ore",
+    "block.risingevolution.coal_generator": "Coal Generator"
 }
